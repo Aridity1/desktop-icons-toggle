@@ -36,6 +36,8 @@ Windows 11 从 23H2 起，系统自带的"显示桌面图标"开关在某些环�
 
 ## 使用方法
 
+> 📖 更详细的图文步骤、常见问题与技巧，见 **[USAGE.md（使用说明）](USAGE.md)**
+
 1. 双击 `DesktopIconsToggle.exe`（通知区域会出现一个小图标）
 2. 按 `Ctrl + Alt + I` 显示 / 隐藏桌面图标
 3. 想退出就按 `Ctrl + Alt + Q`
